@@ -1,2 +1,15 @@
-25/04/2021
-First Official Release Of Tyclonie Tech - Nuke Client
+27/04/2021
+v1.1:
+  BUG FIXES:
+    - Fixed a bug where the bot would nuke the wrong server when it was in multiple.
+  VISUAL CHANGES:
+    - Make various updates to the GUI:
+        - Added an icon from Emojipedia,
+        - Changed some colours of entry options and buttons etc.
+        - Added guild info once selected guild was found.
+        - Moved around a few widgets.      
+  OTHER CHANGES:
+    - Added update alerts
+    - Token fixer -> (If you forget to remove "Enter Token" and/or Speech Marks when entering the token, it will disregard them automatically).
+    - Added information buttons that will take you to the discord/github/youtube dependent on selection. 
+    - Added a button which automatically opens a webpage for you to invite your bot user to a guild.
