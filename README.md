@@ -3,4 +3,4 @@ A client that offers a discord nuker within a GUI which allows users to "nuke" d
 
 ## Information
 Please note that Discord's API has vastly changed since the release of this Nuke bot, this means the latest versions of discord.py may block or potentially stop the program from working. Please use an older version of discord.py, probably one the age of the repository and definitely earlier than version 2.0!
-This also has not been updated for a long time and I have no plans to return to this project within the near future, so I will be ***archiving the repository***.
+This also has not been updated for a long time and I have no plans to return to this project within the near future, so I will be ***archiving the repository***. Please note there are parts of this application that code result in discord accounts being banned as there are features against discords TOS.
